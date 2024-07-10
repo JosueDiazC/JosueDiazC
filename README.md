@@ -1,10 +1,15 @@
-- 👋 Hi, I’m Josué Elías
-- 👀 I’m interested in all javascript world
-- 🌱 I’m currently learning more of node frameworks
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi there! 👋 I'm [Your Name]
+About Me
+I'm a passionate web developer with a strong focus on frontend development, backed by solid experience in backend technologies. My journey in web development has equipped me with proficiency across various frameworks and databases, enabling me to build robust and scalable applications.
 
-<!---
-JosueDiazC/JosueDiazC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Skills
+Frontend: React, Angular, Svelte
+Backend: Golang, Node.js, Java
+Databases: MySQL, Firebase, Neo4j
+What I Do
+I enjoy crafting user-friendly interfaces and scalable backend solutions. Whether it's creating responsive designs with React or optimizing backend performance with Golang, I thrive on delivering seamless web experiences.
+
+Let's Connect
+LinkedIn: https://www.linkedin.com/in/josue-elias-diaz-curo-748699205
+Email: diazcurojosue@gmail.com
+Feel free to reach out if you'd like to collaborate on exciting projects or discuss web development!

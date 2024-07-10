@@ -1,4 +1,4 @@
-Hi there! 👋 I'm [Your Name]
+Hi there! 👋 I'm Josue Diaz
 About Me
 I'm a passionate web developer with a strong focus on frontend development, backed by solid experience in backend technologies. My journey in web development has equipped me with proficiency across various frameworks and databases, enabling me to build robust and scalable applications.
 

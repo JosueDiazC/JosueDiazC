@@ -1,18 +1,50 @@
-## Hi there! 👋 I'm Josue Diaz
+# Hey, I'm Josue 👋
 
-### About Me
+Full stack developer based in Peru with 6+ years building production systems across web, mobile, and desktop. I work primarily with **React**, **TypeScript**, and **Go** — shipping clean, maintainable solutions for real business problems.
 
-I'm a passionate web developer with a strong focus on frontend development, backed by solid experience in backend technologies. My journey in web development has equipped me with proficiency across various frameworks and databases, enabling me to build robust and scalable applications.
+I've built scheduling platforms, manufacturing systems, point-of-sale apps, and cross-platform desktop tools. I care about clean architecture, good developer experience, and writing software that lasts.
 
-### Skills
+---
 
-- 💻 **Frontend:** React, Angular, Svelte
-- 🔧 **Backend:** Golang, Node.js, Java
-- 🛢️ **Databases:** MySQL, Firebase, Neo4j
+### What I work with
 
-### Let's Connect
+**Languages:** TypeScript · JavaScript · Go · Java · PHP
 
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/josue-elias-diaz-curo-748699205/)
-- ✉️ Email: diazcurojosue@gmail.com
+**Frontend:** React · Next.js · Svelte · React Native / Expo · TanStack (Router, Query, Start) · Tailwind CSS · ShadCN UI · Astro
 
-Feel free to reach out if you'd like to collaborate on exciting projects or discuss web development!
+**Backend:** Go · Node.js / Express · NestJS · REST APIs · PostgreSQL · PostGIS · Redis · MySQL · Neo4j · Convex
+
+**Tools & Practices:** Docker · CI/CD · Dokploy · Git · Clean Architecture · Domain-Driven Design · Agile
+
+**Platforms:** Web · Mobile (React Native) · Desktop (Tauri)
+
+---
+
+### What I've been building
+
+🗓️ **SchedHold** — Appointment scheduling platform with drag-and-drop calendar, financial tracking, and rich text notes. React + Go + PostgreSQL + Redis.
+
+🏭 **Fhyona** — Manufacturing & warehouse management system with geospatial logic, inventory control, and multi-module operations. React + TanStack Start + Go + PostGIS.
+
+👔 **Laundry Manager** — Cross-platform desktop app for business operations. Svelte + Tauri + Go + MySQL.
+
+💈 **Barber Shop App** — Mobile business management. React Native + Expo + Java + PostgreSQL.
+
+🛒 **POS System** — Point of sale with real-time inventory. React + Go + Convex.
+
+---
+
+### A bit more about me
+
+- 🌎 Remote from Lima, Peru — comfortable working across time zones
+- 🗣️ Spanish (native) · English (B2)
+- 🎓 Systems Engineering — Universidad Peruana Unión
+- 🧑‍🏫 I enjoy mentoring developers and sharing what I've learned
+- 🐧 Arch Linux user
+
+---
+
+### Let's connect
+
+[![Email](https://img.shields.io/badge/Email-diazcurojosue%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:diazcurojosue@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Josue%20Diaz-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/josue-elias-diaz-curo-748699205/)
